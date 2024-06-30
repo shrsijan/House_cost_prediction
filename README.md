@@ -1,4 +1,4 @@
-# House_cost_prediction with Python and Linear Regression
+# House cost prediction with Python and Linear Regression
 
 # Introduction
 This repository will guide you through building a simple linear regression model using Python. 
@@ -28,14 +28,11 @@ Efficiency: Quick to implement and provides a baseline model for more complex al
 Applications: Widely used in real estate (predicting house prices), economics, and more.
 Usage
 
-
 # Resources
 Scikit-learn Documentation
 Pandas Documentation
 NumPy Documentation
 Matplotlib Documentation
 
-# License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 
